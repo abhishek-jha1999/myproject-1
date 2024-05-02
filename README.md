@@ -1,4 +1,4 @@
 # myproject-1
-this is my 1st uploaded project on html &amp; css
+This is the cloned website of Amazon with proper Nav bars and footer using HTML & CSS more functionalities to be added soon!!
 <br>
 Author- Abhishek Anand
