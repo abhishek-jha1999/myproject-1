@@ -230,7 +230,7 @@ span{
 }
 .shoe-img{
     background-image: url(/myproject-1/shoe-1.jpg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
     margin-left: 10px;
@@ -239,21 +239,24 @@ span{
 }
 .shoe-img2{
     background-image: url(/myproject-1/shoe-2.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 300px;
     margin-left: 10px;
     margin-right: 10px;
     
 }.shoe-img3{
     background-image: url(/myproject-1/shoe-3.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 300px;
     margin-left: 10px;
     margin-right: 10px;
     
 }.shoe-img4{
     background-image: url(/myproject-1/shoe-4.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 300px;
     margin-left: 10px;
     margin-right: 10px;
@@ -292,6 +295,4 @@ footer a{
     display: flex;
     justify-content: space-evenly;
     
-    
-
 }
